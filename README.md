@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/drzazga888/data-grid.svg?branch=master)](https://travis-ci.org/drzazga888/data-grid)
+
 # data-grid
 Universal React.js data-processing wrapper for row-specific data
 
